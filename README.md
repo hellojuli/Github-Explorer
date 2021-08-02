@@ -8,6 +8,14 @@
 </p>
 <br/>
 
+<div align="center" >
+  <p style="width: 50%">
+    <kbd>
+      <img src=".github/app.png" alt="app-image" style="border-radius: 5px" />
+    </kdb>
+  </p>
+</div>
+
 # 🔧 Ferramentas utilizadas 
 
 - [React](https://pt-br.reactjs.org/)
